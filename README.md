@@ -1,1 +1,2 @@
-This is wikipedia  used technologies HTML,CSS,JAVASCRIPT
+This is wikipedia  used technologies HTML,CSS
+
